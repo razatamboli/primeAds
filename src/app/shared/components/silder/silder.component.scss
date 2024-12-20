@@ -1,0 +1,22 @@
+
+.caresole{
+    width: 100%;
+    height: calc(100vh - 166px);
+}
+
+.carousel-item{
+    width: 100%;
+    height: calc(100vh - 70px);
+}
+
+.carousel-item>img{
+    width: 100%;
+    height: 100%;
+}
+
+// margin of slider section
+
+.slider{
+    margin-bottom: 250px;
+    z-index: -1;
+}
